@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
               "ToolTip": "C:\\Projects\\LOTGQuiz\\Api\\Api\\appsettings.Development.json",
               "RelativeToolTip": "Api\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-04T03:40:52.839Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T03:23:25.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T03:23:25.455Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T03:18:16.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T03:18:16.611Z"
             }
           ]
         },
